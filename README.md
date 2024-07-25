@@ -1,4 +1,4 @@
-![Screenshot 2024-07-25 205025](https://github.com/user-attachments/assets/a04ad37c-9d81-4b78-824f-f6f034b1711d)
+
 # DataStructures Concept Used In Book Management System
 A collection of solutions to various data structure and algorithm problems.
 This project is a simple yet effective program developed in C++ for managing a collection of books. It allows users to add, search, update, and delete book records, providing a user-friendly interface for efficient book management.
